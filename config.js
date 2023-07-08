@@ -36,56 +36,56 @@ const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = '-'
-global.tautanwa = 'https://wa.me/6282395165397'
+global.tautanwa = 'https://wa.me/6285785056491'
 global.sgh = 'https://github.com/gada' //github
-global.sgc = 'https://chat.whatsapp.com/DLIdY0SbuAyCMl64I22Iqo'  //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/GblwxLQhUco9|R9NdlwOkj'  //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = '-'
 global.syt = '-'
 global.sfb = '-'// facebook
 global.snh = '-'
 global.media = 'https://telegra.ph/file/f92c7801aea7201ce2701.jpg'
-global.wame = 'https://wa.me/6282395165397'
+global.wame = 'https://wa.me/6285785056491'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
-global.owner = [['6282395165397', 'KING ANGGAZYY! ', true]]
+global.owner = [['6285785056491', 'TIO ', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882020034316' //pasang no bot lo 
-global.nomorown = '6282395165397' //pasang no own lo
-global.nomorown1 = '6282395165397'
-global.nomorown2 = '6282395165397'
+global.nomorbot = '6281229082661' //pasang no bot lo 
+global.nomorown = '6285785056491' //pasang no own lo
+global.nomorown1 = '6285785056491'
+global.nomorown2 = '6285785056491'
 global.nomorwa = '0'
-global.nameown = 'KING ANGGAZYY!  '
+global.nameown = 'TIO  '
 global.gcname = 'Group botz'
-global.author = 'A N G G A Z Y Y - MD 乂'
-global.v = 'A  N  G  G  A  Z  Y  Y - MD'
-global.namabot = '⫹⫺ KING ANGGAZYY! '
+global.author = 'TIO'
+global.v = 'TIO'
+global.namabot = 'TIO_CLOUDSZ'
 global.namebot = namabot
 global.packname2 = namabot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'KING ANGGAZYY! '
-global.nameown2 = 'KING ANGGAZYY! '
+global.nameown1= 'TIO '
+global.nameown2 = 'TIO '
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '                「 KING ANGGAZYY!  」 '
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KING ANGGAZYY!  ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = `⫹⫺ KING ANGGAZYY! `
-global.packname = 'Created By ANGGAZYY! XX'
+global.wm = '                TIO '
+global.wm2 = 'TIO_CLOUDSZ'
+global.wm3 = `TIO `
+global.packname = 'Created TIO'
 global.watermark = namabot
-global.titlebot = `KING ANGGAZYY! `
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ KING ANGGAZYY!  ッ'
+global.titlebot = `TIO_CLOUDSZ `
+global.footer = 'TIO_CLOUDSZ ッ'
 /*Fake*/
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'Made by'
-global.stickauth = `⫹⫺ KING ANGGAZYY! `
+global.stickpack = 'TIO'
+global.stickauth = `TIO_CLOUDSZ `
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -103,17 +103,17 @@ global.intro = 'https://telegra.ph/file/f92c7801aea7201ce2701.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://saweria.co/angganet'
-global.ig = 'https://instagram.com/gada'
+global.lynk = 'https://s.id/Tio_Cloudsz'
+global.ig = 'https://instagram.com/blue_clouds'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '085693568727'//pasang no lo sinih buat donasi 
+global.pdana = '085785056491'//pasang no lo sinih buat donasi 
 global.povo = '-' 
-global.pgopay = '-'
+global.pgopay = '085785056491'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085693568727' // Pulsa indosat
-global.ppulsa2 = '085693568727' // Pulsa axis 
+global.ppulsa = '085785056491' // Pulsa indosat
+global.ppulsa2 = '085785056491' // Pulsa axis 
 global.psaweria = '-'
 global.donasikabul = 'Gadaa'
 
@@ -234,7 +234,7 @@ global.rpg = {
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.zenzkey = 'b8040941f7'
-global.lolkey = 'SGWN'
+global.lolkey = 'ed78c137a46873c5b8e5fe3b'
   //'292e8d36a318282908bd07f7' // PUNYA WAHID 357d3c85079c4e0818731e6b
 // Cdgn Lolkey ed78c137a46873c5b8e5fe3b
 global.botcahx = 'df09e048'
